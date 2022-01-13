@@ -15,7 +15,7 @@ async def new_join_f(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('Channel', url='https://t.me/MaxxBots')
+                        InlineKeyboardButton('Channel', url='https://t.me/IET_Updates')
                     ]
                 ]
                )
@@ -82,13 +82,13 @@ You have to pass link as www.download.me/gk.txt | new.txt
  
 the file will be uploaded as new.txt.
  
-/{SAVE_THUMBNAIL}: Reply To A Photo To Save As Custom Thumbnail
+/{SAVE_THUMBNAIL}: Reply To A Photo🖼️ To Save As Custom Thumbnail
 
 /{CLEAR_THUMBNAIL}: To Clear Saved Custom Thumbnail
 
 /{TOGGLE_VID}: To Upload Your Files As Streamable
 
-/{TOGGLE_DOC}: To Upload Your Files As Documents
+/{TOGGLE_DOC}: To Upload Your Files As Documents📂
 
 **How to Use....?**
 __Send any one of the available command, as a reply to a valid link/magnet/torrent. 👊__
